@@ -22,7 +22,7 @@ Cypriot proverbs are a valuable part of the island's cultural heritage, reflecti
 ## Dataset
 
 - **Source**: Custom-recorded dataset of spoken Cypriot proverbs.
-- **Size**: Contains audio recordings of native speakers reciting a curated collection of Cypriot proverbs.
+- **Data Type**: Contains audio recordings of native speakers reciting a curated collection of Cypriot proverbs.
 - **Format**: WAV files with corresponding text transcriptions for training and evaluation.
 
 ---
